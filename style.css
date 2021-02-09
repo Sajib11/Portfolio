@@ -1,0 +1,56 @@
+body{
+    color: cadetblue;
+}
+h2{
+    font-size: 40px;
+    color: brown;
+}
+h1{
+    color: rgb(36, 103, 192);
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 90%;
+}
+img {
+    border-radius: 40%;
+    width: 60px;
+}
+.link-button {
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid rgb(196, 10, 50);
+    background-color:rgb(47, 206, 153);
+    padding: 10px 20px;
+    border-radius: 50%;
+    color: white;
+
+}
+.link-button:hover {
+    background-color: black;
+    color: white;
+  }
+
+  .link2-button {
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid rgb(196, 10, 50);
+    background-color:rgb(17, 57, 187);
+    padding: 10px 20px;
+    border-radius: 50%;
+    color: white;
+
+}
+.link2-button:hover {
+    background-color: black;
+    color: white;
+  }
+ .majhe {
+      text-align: center;
+  }
