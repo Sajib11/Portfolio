@@ -1,12 +1,12 @@
 body{
     color: cadetblue;
 }
-h2{
+.h2{
     font-size: 40px;
     color: brown;
 }
-h1{
-    color: rgb(36, 103, 192);
+.h1{
+    color: rgb(137, 192, 36);
 }
 
 .half-width{
@@ -14,9 +14,10 @@ h1{
     float: left;
     margin-left: 2%;
     padding-left: 2%;
+    padding-right: 5%;
 }
 .half-width img {
-    width: 90%;
+    width: 60%;
 }
 img {
     border-radius: 40%;
@@ -51,6 +52,30 @@ img {
     background-color: black;
     color: white;
   }
+.link3-button {
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid rgb(196, 10, 50);
+    background-color:rgb(167, 20, 111);
+    padding: 10px 20px;
+    border-radius: 50%;
+    color: white;
+
+}
+.link3-button:hover {
+    background-color: black;
+    color: white;
+  }
+
+
  .majhe {
       text-align: center;
+      color: rgb(36, 9, 158);
+  }
+  .shadow {
+            box-shadow: 10px 10px 40px gray;
+  }
+  footer p { 
+      text-align: center;
+      color: darkgoldenrod;
   }
